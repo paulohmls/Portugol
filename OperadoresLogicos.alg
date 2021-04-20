@@ -21,4 +21,8 @@ inicio
    Escreval(c, " é menor ou igual a ", b, " expoente de ", a, ": A resposta é: ", c<=b^a)
    Escreval(b, " é menor ou igual a ", c, " resto da divisão ", a, ": A resposta é: ", b<=c%a)
    Escreval(" 1 é igual a ", c, " resto da divisão ", a, ": A resposta é: ", 1=c%2)
+   Escreval(verdadeiro e falso)
+   Escreval((a=b) ou (c>a))
+   Escreval(nao((a=b) ou (c>a)))
+   Escreval(nao((a<=b) ou (c>=a)))
 fimalgoritmo
