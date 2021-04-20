@@ -1,1 +1,1 @@
-Arquivos realizados com o programa Visualg.
+Arquivos criados com o programa Visualg.
