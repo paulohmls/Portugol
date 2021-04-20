@@ -19,4 +19,6 @@ inicio
    Escreval(c, " é igual a ", a, " + ", b, ": A resposta é: ", c=a+b)
    Escreval(c, " é maior ou igual a ", b, " expoente de ", a, ": A resposta é: ", c>=b^a)
    Escreval(c, " é menor ou igual a ", b, " expoente de ", a, ": A resposta é: ", c<=b^a)
+   Escreval(b, " é menor ou igual a ", c, " resto da divisão ", a, ": A resposta é: ", b<=c%a)
+   Escreval(" 1 é igual a ", c, " resto da divisão ", a, ": A resposta é: ", 1=c%2)
 fimalgoritmo
